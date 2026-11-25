@@ -112,8 +112,8 @@ A computer vision-based face recognition project.
 ## 🤝 Connect With Me
 
 - 🌐 Portfolio: https://www.prep-view-ai.tech/
-- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
-- 📧 Email: [Add your professional email]
+- 💼 LinkedIn: https://www.linkedin.com/in/ankit-s-m/
+- 📧 Email: ankitsm39@gmail.com
 
 ---
 
